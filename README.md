@@ -19,7 +19,7 @@ A languages that we disuss for programming:
 
 Tables are also helpful 
 |syntax | Descripton |
-|...........|...........|
+|...........|..........|
 | Row 1 | Value 1 |
 | Row 2 | Value 2 |
 | Row 3 | Value 3 |
