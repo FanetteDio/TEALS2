@@ -1,5 +1,7 @@
 # TEALS2-level 1 Heading
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FanetteDio/TEALS2/HEAD)
+
  This is my text under level 1. This is for the  **Introduction to Software Twchologies** class at * Tower High school*! Links are easy to make - the high school can be found  [here](https://user-images.githubusercontent.com/114593218/192844942-2fe7f821-cad9-4c03-b0cf-30efe7f88366.png)
 
 !(The Towers High School and Dekalb county schools logos) (https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
